@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TizenXamarin", "TizenXamarin\TizenXamarin\TizenXamarin.csproj", "{2D37721C-68E5-4F71-BD7E-05E7C55CA79B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TizenXamarin.Tizen", "TizenXamarin\TizenXamarin.Tizen\TizenXamarin.Tizen.csproj", "{50C14191-EE41-428E-8E4F-9020194A0FA8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2D37721C-68E5-4F71-BD7E-05E7C55CA79B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2D37721C-68E5-4F71-BD7E-05E7C55CA79B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2D37721C-68E5-4F71-BD7E-05E7C55CA79B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2D37721C-68E5-4F71-BD7E-05E7C55CA79B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{50C14191-EE41-428E-8E4F-9020194A0FA8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{50C14191-EE41-428E-8E4F-9020194A0FA8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{50C14191-EE41-428E-8E4F-9020194A0FA8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{50C14191-EE41-428E-8E4F-9020194A0FA8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0DA9D12E-F9FE-4540-8C7D-2621C38A179F}
+	EndGlobalSection
+EndGlobal
